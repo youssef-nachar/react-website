@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.d0bbf20b.css",
-    "main.js": "/react-website/static/js/main.af1974b7.js",
+    "main.css": "/react-website/static/css/main.20194368.css",
+    "main.js": "/react-website/static/js/main.9abbcd8c.js",
     "static/js/787.d4aba7ab.chunk.js": "/react-website/static/js/787.d4aba7ab.chunk.js",
     "static/media/dog-gift-review.jpg": "/react-website/static/media/dog-gift-review.9c98f49534e50bff69e4.jpg",
     "index.html": "/react-website/index.html",
-    "main.d0bbf20b.css.map": "/react-website/static/css/main.d0bbf20b.css.map",
-    "main.af1974b7.js.map": "/react-website/static/js/main.af1974b7.js.map",
+    "main.20194368.css.map": "/react-website/static/css/main.20194368.css.map",
+    "main.9abbcd8c.js.map": "/react-website/static/js/main.9abbcd8c.js.map",
     "787.d4aba7ab.chunk.js.map": "/react-website/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0bbf20b.css",
-    "static/js/main.af1974b7.js"
+    "static/css/main.20194368.css",
+    "static/js/main.9abbcd8c.js"
   ]
 }
