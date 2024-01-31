@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.d944ba69.css",
-    "main.js": "/react-website/static/js/main.36020f0c.js",
+    "main.css": "/react-website/static/css/main.efa87149.css",
+    "main.js": "/react-website/static/js/main.a3573d5b.js",
     "static/js/787.d4aba7ab.chunk.js": "/react-website/static/js/787.d4aba7ab.chunk.js",
     "static/media/dog-gift-review.jpg": "/react-website/static/media/dog-gift-review.9c98f49534e50bff69e4.jpg",
     "static/media/pet_store.svg": "/react-website/static/media/pet_store.a48f7254c0d2e29816e7dcb25e50b1b6.svg",
@@ -12,6 +12,7 @@
     "static/media/car_dealer.svg": "/react-website/static/media/car_dealer.4f758844bb256e288a908b75611b9320.svg",
     "static/media/bicycle_shop.svg": "/react-website/static/media/bicycle_shop.932fac1247616dfbbe1fca5df482ecd0.svg",
     "static/media/electronic_store.svg": "/react-website/static/media/electronic_store.8204e2cbed61a0ca59f3979a8556ef56.svg",
+    "static/media/stars-5.svg": "/react-website/static/media/stars-5.5578af31964665163897c480cec9bd01.svg",
     "static/media/furniture_store.svg": "/react-website/static/media/furniture_store.b92a41331a022be6e9c4952b64e3b81a.svg",
     "static/media/mortgage_broker.svg": "/react-website/static/media/mortgage_broker.da7d3994dded03683003bf3b122581d5.svg",
     "static/media/bedroom_furniture.svg": "/react-website/static/media/bedroom_furniture.88f82551023e5641092745ec5454dc20.svg",
@@ -25,12 +26,12 @@
     "static/media/electronics_technology.svg": "/react-website/static/media/electronics_technology.ed34c8cbe885b8ffae03844a372005a6.svg",
     "static/media/banks.svg": "/react-website/static/media/banks.7805d239f4fa9b4ba5a75e85c269e889.svg",
     "static/media/real_estate_agents.svg": "/react-website/static/media/real_estate_agents.dc9e410d907605a3064ec176bc6ac06f.svg",
-    "main.d944ba69.css.map": "/react-website/static/css/main.d944ba69.css.map",
-    "main.36020f0c.js.map": "/react-website/static/js/main.36020f0c.js.map",
+    "main.efa87149.css.map": "/react-website/static/css/main.efa87149.css.map",
+    "main.a3573d5b.js.map": "/react-website/static/js/main.a3573d5b.js.map",
     "787.d4aba7ab.chunk.js.map": "/react-website/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d944ba69.css",
-    "static/js/main.36020f0c.js"
+    "static/css/main.efa87149.css",
+    "static/js/main.a3573d5b.js"
   ]
 }
